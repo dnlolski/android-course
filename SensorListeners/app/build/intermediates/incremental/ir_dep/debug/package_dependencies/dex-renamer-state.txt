@@ -1,0 +1,4 @@
+#Sat Mar 30 10:59:33 CET 2019
+base.0=C\:\\Android\\Projects\\Draft\\SensorListeners\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
